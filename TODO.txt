@@ -1,0 +1,2 @@
+TODO:
+- Check for file with single piece / size  < 64 kB (SHA) 
